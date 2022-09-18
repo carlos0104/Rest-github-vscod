@@ -1,0 +1,26 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Estudo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos0104/Rest-github-vscod.git"
+  },
+  "keywords": [
+    "node",
+    "teste"
+  ],
+  "author": "Carlos Eduardo Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlos0104/Rest-github-vscod/issues"
+  },
+  "homepage": "https://github.com/carlos0104/Rest-github-vscod#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
